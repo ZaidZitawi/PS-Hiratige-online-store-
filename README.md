@@ -40,7 +40,3 @@ The project is organized into several key directories and files:
 - `css/`: External CSS files for styling.
 - `images/`: Product images and site graphics.
 - `index.php`: Entry point of the web application.
-
-## Quick Sight
-
-

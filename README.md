@@ -32,11 +32,3 @@ Welcome to the repository of the Palestinian Souvenirs Online Store, a dynamic w
 - **Database**: MySQL
 - **Styling**: External CSS files for layout and design consistency, following specific CSS requirements for dynamic, responsive design.
 
-## Project Structure
-
-The project is organized into several key directories and files:
-
-- `php/`: PHP scripts for server-side logic.
-- `css/`: External CSS files for styling.
-- `images/`: Product images and site graphics.
-- `index.php`: Entry point of the web application.
